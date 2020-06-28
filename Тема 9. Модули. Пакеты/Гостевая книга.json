@@ -1,0 +1,14 @@
+{
+    "Guests": [
+        {
+            "first_namename": "Ivan",
+            "second_name": "Ivanov",
+            "age": 16
+        },
+        {
+            "first_namename": "Vladimir",
+            "second_name": "Putin",
+            "age": 18
+        }
+    ]
+}
