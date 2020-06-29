@@ -20,7 +20,5 @@ f = fib() # создаем объект, в котором описываем п
 
 start = int(input("От какого числа просиходит счет \t" ))
 end = int(input("До какого числа просиходит счет \t" ))
-"""
-itertools.islice(iterable[, start], stop[, step]) - итератор, состоящий из среза.
-"""
+
 print(list(islice(f, start, end))) 
